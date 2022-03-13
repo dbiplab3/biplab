@@ -1,0 +1,2 @@
+Normal Log: log message
+Error Log: error message

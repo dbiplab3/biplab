@@ -1,0 +1,17 @@
+{
+  "name": "grunt",
+  "version": "1.0.0",
+  "description": "typescript with grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1"
+  },
+  "dependencies": {
+    "grunt-ts": "^6.0.0-beta.22"
+  }
+}
